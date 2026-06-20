@@ -1,0 +1,16 @@
+{
+    "api_id": 12345678,
+    "api_hash": "YOUR_API_HASH",
+    "channels": [
+        "channel_username",
+        "group_username"
+    ],
+    "allow_words": [
+        "word1",
+        "word2"
+    ],
+    "deny_words": [
+        "word1",
+        "word2"
+    ]
+}
